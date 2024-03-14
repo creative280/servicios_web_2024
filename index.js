@@ -1,1 +1,4 @@
-console.log('hola CIAF 2024')
+console.log();
+console.table();
+console.error();
+console.warm(); 
