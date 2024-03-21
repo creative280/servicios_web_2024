@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node temas/index.js",
+    "operators:compar": "node temas/03_operators_compare.js",
+    "operators:string": "node temas/05_String_methods.js"
+
   },
   "keywords": [],
   "author": "",
