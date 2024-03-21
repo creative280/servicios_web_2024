@@ -31,3 +31,8 @@ console.log(counterOne <= 100); // True
 
 console.log(10 >= 9);
 console.log(0 == 0);
+
+
+counter = 10
+
+counter > 100 ? console.log("counter > 100") : console.log("counter < 100");

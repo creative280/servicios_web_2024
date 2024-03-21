@@ -25,3 +25,17 @@ console.log(fullname); // Salida: "Alejandro"
 
 console.log(null == undefined);
 console.log(null === undefined);
+
+
+
+
+counter = 10
+
+if(counter > 100) {
+    console.log("Counter > 100")
+} else {
+    console.log("Counter < 100")
+}
+
+
+counter > 100 ? console.log("counter > 100") : console.log("counter < 100");
